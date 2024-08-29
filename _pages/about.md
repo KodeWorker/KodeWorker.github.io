@@ -41,7 +41,7 @@ header:
 - **Circuit Auto-Routing**: Seeking inspiration from path-finding algorithms in game industry and computer graphics. Still in a long way to go!
 - **Substrate Design CAD**: Parameterize design specs for DXF-file auto generation.
 
-#### 華碩 - 高級工程師 (2019.12 ~ )
+#### 華碩 - 高級工程師 - 課長 (2019.12 ~ )
 - Study:
 	- Audio Signal Separation: Paper reading and using [Open-Unmix](https://sigsep.github.io/open-unmix/) for signal separation
 	- EasyTL: Transfer Learning paper reading and implement EasyTL in Python([pyEasyTL](https://github.com/KodeWorker/pyEasyTL))
@@ -53,9 +53,11 @@ header:
 	- AISVision: 
 		- Classification model develop
 		- Classification and Object Detection Model Owner
+		- Oriented Object Detection Owner
 - Competitions:
-	- #1 on ASUS RoboACE 2022 competition (Robot Football Tournament in ASUS)
+	- #1 on ASUS RoboACE 2022 competition (Robot Football Tournament in ASUS, Team: DIT一拳超人)
 	- #3 on 2022 Intel Dev Cup competition in "AI in Experiment track" (Team: CyberAudio 2022)
+	- 2024 AICUP AI 驅動出行未來：跨相機多目標車輛追蹤競賽 － 模型組 (TEAM_5045 企業特別獎，private board #2)
 
 ## 專長
 ### 程式語言
@@ -66,7 +68,7 @@ header:
 
 ### 其他技能
 - **Git**:工作後開始遇到系統整合才有用到，不然我也沒有機會與Github邂逅。
-- ~~**Photoshop**:別提了，各種血汗(尿)各種淚。
+- ~~**Photoshop**:別提了，各種血汗(尿)各種淚。~~
 
 ## 興趣
 ### 學習目標
