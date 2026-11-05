@@ -46,15 +46,19 @@ header:
 	- Audio Signal Separation: Paper reading and using [Open-Unmix](https://sigsep.github.io/open-unmix/) for signal separation
 	- EasyTL: Transfer Learning paper reading and implement EasyTL in Python([pyEasyTL](https://github.com/KodeWorker/pyEasyTL))
 	- Heart Sound Classification Research: Using CINC2016 AISTATS2012 datasets for [heart sound classification research](https://github.com/KodeWorker/HeartSound)
+	- Oriented Object Detection based on this paper: [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430)
 - Projects:
 	- MB connector classification demo
-	- TinkerEdgeT object detection demo
-	- ABB robot with camera on NB defect detection demo (socker communication with ABB robot)
-	- AISVision: 
-		- Classification model develop
-		- Classification and Object Detection Model Owner
-		- Oriented Object Detection Owner
-- Competitions:
+	- YOLOv4-tiny on TinkerEdgeT object detection demo
+	- ABB robot with camera on NB defect detection demo (socket communication with ABB robot)
+- AISVision: 
+	- Classification and Object Detection Model Owner
+	- Oriented Object Detection Owner
+	- Built Tensorflow with custom tensor encryption/decryption in C++
+	- Built a CUDA-based oriented object detection metrics library
+	- Built and managed on-prem Kubernetes infrastructure
+	- Assisted with Azure-hosted SaaS operations
+- Awards:
 	- #1 on ASUS RoboACE 2022 competition (Robot Football Tournament in ASUS, Team: DIT一拳超人)
 	- #3 on 2022 Intel Dev Cup competition in "AI in Experiment track" (Team: CyberAudio 2022)
 	- 2024 AICUP AI 驅動出行未來：跨相機多目標車輛追蹤競賽 － 模型組 (TEAM_5045 企業特別獎，private board #2)
@@ -68,6 +72,7 @@ header:
 
 ### 其他技能
 - **Git**:工作後開始遇到系統整合才有用到，不然我也沒有機會與Github邂逅。
+- **Kubernetes**: 自建計算欉集、部屬服務，半夜被叫起床尿尿。
 - ~~**Photoshop**:別提了，各種血汗(尿)各種淚。~~
 
 ## 興趣
