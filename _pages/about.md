@@ -62,6 +62,7 @@ header:
 	- #1 on ASUS RoboACE 2022 competition (Robot Football Tournament in ASUS, Team: DIT一拳超人)
 	- #3 on 2022 Intel Dev Cup competition in "AI in Experiment track" (Team: CyberAudio 2022)
 	- 2024 AICUP AI 驅動出行未來：跨相機多目標車輛追蹤競賽 － 模型組 (TEAM_5045 企業特別獎，private board #2)
+- Patent: Application Sensor Data Interchange Protocol (US 12,360,507 B2)
 
 ## 專長
 ### 程式語言
